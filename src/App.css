@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300&family=Satisfy&display=swap');
+
+body{
+
+  background: radial-gradient(circle, rgb(238, 204, 219) 0%, rgb(187, 207, 230) 67%);
+  color: rgb(15, 15, 15);
+  font-family: 'Sarabun', sans-serif;
+  font-size: 30px;
+  
+}
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 100px;
+  padding-left: 400px;
+}
+li{
+  overflow: hidden;
+  padding-left: 550px;
+  padding-top: 20px;
+}
+hr{
+margin-left: 100px;
+margin-right: 800px;
+}
